@@ -1,2 +1,2 @@
 # String-To-Hex
-Android app for convert string to hex
+An Android application for converting a string from a file to hex
